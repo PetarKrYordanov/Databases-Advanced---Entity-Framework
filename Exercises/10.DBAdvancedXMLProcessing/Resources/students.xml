@@ -1,0 +1,32 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<students>
+  <student>
+    <name>Ivan Yordanov</name>
+    <gender>Make</gender>
+    <birthdate>1985/12/23</birthdate>
+    <phoneNumber>0888524689</phoneNumber>
+    <university>Software University</university>
+    <speciality>C# web development</speciality>
+    <facultyNumber>14194</facultyNumber>
+    <exams>
+      <name>Entity framework Core</name>
+      <dateTaken>2017/02/05</dateTaken>
+      <grade>6.0</grade>
+    </exams>
+  </student>
+  <student>
+    <name>Gosho Ivanov</name>
+    <gender>Make</gender>
+    <birthdate>1985/12/23</birthdate>
+    <phoneNumber>0888524689</phoneNumber>
+    <university>Software University</university>
+    <speciality>C# web development</speciality>
+    <facultyNumber>14194</facultyNumber>
+    <exams>
+      <name>Entity framework Core</name>
+      <dateTaken>2017/02/07</dateTaken>
+      <grade>5.5</grade>
+    </exams>
+  </student>
+</students>
+
